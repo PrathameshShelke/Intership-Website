@@ -1,2 +1,1 @@
-# Intership-Website
-alkemi school website
+Akemi Business School

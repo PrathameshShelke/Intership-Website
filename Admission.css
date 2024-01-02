@@ -1,0 +1,182 @@
+.middle{
+color: #000;
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+margin-left: 610px;
+padding-top: 60px;
+font-weight: 700;
+line-height: 160.687%; /* 77.13px */
+margin-bottom: -20px;
+}
+.layout{
+width: 1920px;
+height: 16295px;
+background: #FFF;
+}
+
+.box-container-top {
+  width: 1920px;
+  height: 979.592px;
+  flex-shrink: 0;
+  background: url(img/Admissionfrontimg.png), linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.8) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.8) 100%);
+  background-repeat: no-repeat;
+  background-size: 1920px 979.592px, cover;
+ }
+ .box-container-top img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+ }
+.box-top-text{
+color: #FFF;
+text-align: center;
+font-family: Open Sans;
+font-size: 52px;
+font-style: normal;
+font-weight: 700;
+line-height: 160.687%; /* 83.557px */
+text-transform: uppercase;
+padding-top: 300px;
+}
+.box-top-text-line{
+  background: #F48220;
+  width: 480px;
+  height: 5px;
+  margin-left: 730px;
+}  
+.bullet-points {
+  color: #000;
+  text-align: justify;
+  font-family: Source Sans Pro;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+ul li::before {
+  color: red;
+   }
+  
+.box-image {
+    width: 799px;
+    height: 679px;
+    flex-shrink: 0;
+    margin-left: 200px;
+    border-radius: 38px;
+    border: 5px solid #FFF;
+    /* background: #A4A4A4; */
+    box-shadow: 0px 4px 80px 0px rgba(0, 0, 0, 0.17);
+  }
+  
+.box{
+  width: 1677px;
+  height: 164px;
+  flex-shrink: 0;
+  border-radius: 28px;
+  background: #FFF;
+  }
+.box-contain{
+color: #F48220;
+padding: 3px;
+padding-left: 30px;
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 1517px;
+  }
+.box-outside{
+  width: 1704px;
+  height: 164px;
+  flex-shrink: 0;
+  border-radius: 28px;
+  background: #F48220;
+  margin-left: 95px;
+  margin-top: -90px;
+  box-shadow: 0px 4px 80px 0px rgba(0, 0, 0, 0.17);
+}
+.text-container{
+    color: #ffffff;
+    /* text-align: center; */
+    font-family: Open Sans;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160.687%; /* 77.13px */
+}
+.container {
+    background-size: cover; /* Adjust background size as needed */
+    background-position: center; /* Adjust background position as needed */
+    color: #fffafa; /* Make text visible against the background (adjust based on your image) */
+    padding: 20px;
+    width: 1710.723px;
+    height: 1069.011px;
+    flex-shrink: 0;
+    display: flex; /* Arrange elements side-by-side */
+    align-items: center; /* Vertically align elements */
+    margin-left: 78px;
+  }
+  
+  .container1 {
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 20px;
+    width: 1710.723px;
+    height: 1069.011px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    margin-left: 78px;
+    margin-top: 50px; /* Adjust this value as needed */
+    background-repeat: no-repeat;
+    background-size: 1710.723px 1069.011px, cover;
+    position: relative; 
+    background: url("img/IMG_1253.png"), linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.8) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.8) 100%);
+}
+
+.container1 img {
+ -webkit-filter: grayscale(100%);
+ filter: grayscale(100%);
+}
+  .abc, .abc1, .abc2 {
+    color: white;
+    font-size: 23px;
+    font-family: Open Sans;
+    font-weight: 700;
+    line-height: 36.96px;
+    word-wrap: break-word;
+    width: 100%;
+    height: 100%;
+    border-radius: 11px"
+    
+  }
+.container1 .abc {
+    position: absolute;
+    left: 50px; /* Adjust as needed */
+    top: 500px; /* Adjust as needed */
+    /* ... (same as before for other button styles) ... */
+}
+
+.container1 .abc1 {
+    position: absolute;
+    left: 60px; /* Adjust as needed */
+    top: 500px; /* Adjust as needed */
+    /* ... (same as before for other button styles) ... */
+}
+
+.container1 .abc2 {
+    position: absolute;
+    left: 70px; /* Adjust as needed */
+    top: 500px; /* Adjust as needed */
+    /* ... (same as before for other button styles) ... */
+}
+.box-container-3{
+color: #F48220;
+ font-size: 32px;
+ font-family: Open Sans;
+ font-weight: 700;
+ word-wrap: break-word
+  }
